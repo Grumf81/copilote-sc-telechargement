@@ -6,6 +6,7 @@ Chaque composant reste sous la licence de son auteur. Les textes complets sont s
 |---|---|---|---|
 | Python 3.13 (python-build-standalone) | Python Software Foundation, Astral | PSF License | https://github.com/astral-sh/python-build-standalone |
 | Bibliothèques Python (faster-whisper, vosk, sherpa-onnx, Flask…) | leurs auteurs respectifs | licences libres, voir chaque paquet dans `.venv\Lib\site-packages` | https://pypi.org/ |
+| segno (QR code d'appairage du téléphone) | Lars Heuer | BSD 3-Clause | https://github.com/heuer/segno |
 | uv | Astral | MIT / Apache 2.0 | https://github.com/astral-sh/uv |
 | llama.cpp | ggml-org | MIT | https://github.com/ggml-org/llama.cpp |
 | Qwen 2.5 3B Instruct (IA locale, composant facultatif) | Alibaba Cloud (Qwen) | **Qwen Research License** : usage non commercial | https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF |

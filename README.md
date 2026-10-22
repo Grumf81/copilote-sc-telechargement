@@ -38,10 +38,20 @@ pour voir l'overlay.
 
 ## Mettre à jour, désinstaller
 
-- **Mise à jour** : lancez l'installateur d'une version plus récente. Vos réglages, commandes, voix et avatars sont
-  conservés.
+- **Mise à jour** : depuis le copilote, page **Mises à jour** › *Programme du copilote* › **Mettre à jour et
+  redémarrer** (quelques secondes, rien à retélécharger). Le copilote vérifie chaque jour et n'installe rien sans
+  votre accord. Vos réglages, commandes, voix et avatars sont conservés.
+- Les copilotes installés avant la version du 22 octobre 2026 n'ont pas encore cette mise à jour intégrée :
+  réinstallez une fois avec l'installateur le plus récent (même dossier, rien n'est perdu).
 - **Désinstallation** : *Paramètres Windows › Applications › Copilote Star Citizen*. Elle propose de garder ou de
   supprimer vos réglages.
+
+## Télécommande sur téléphone
+
+Un seul écran ? Page **Téléphone** du copilote : autorisez la télécommande, puis scannez le QR code avec votre téléphone
+(même Wi-Fi que le PC). Le téléphone affiche l'avatar animé, la conversation, les annonces du jeu et quelques réglages,
+avec un bouton **Stop**. Les vues changent à la voix (« Copilote, affiche les annonces »). Aucune commande ne part du
+téléphone : les ordres passent toujours par la voix. Windows demande une fois d'autoriser le copilote dans son pare-feu.
 
 ## Licences
 
