@@ -8,6 +8,9 @@ Chaque composant reste sous la licence de son auteur. Les textes complets sont s
 | Bibliothèques Python (faster-whisper, vosk, sherpa-onnx, Flask…) | leurs auteurs respectifs | licences libres, voir chaque paquet dans `.venv\Lib\site-packages` | https://pypi.org/ |
 | segno (QR code d'appairage du téléphone) | Lars Heuer | BSD 3-Clause | https://github.com/heuer/segno |
 | uv | Astral | MIT / Apache 2.0 | https://github.com/astral-sh/uv |
+| three.js (affichage 3D de l'avatar) | three.js authors | MIT | https://github.com/mrdoob/three.js |
+| three-vrm (modèles VRM) | pixiv Inc. | MIT | https://github.com/pixiv/three-vrm |
+| Modèle 3D d'Aria (avatar3d/aria.vrm) | Grumf81 | VRM Public License 1.0 : usage personnel non commercial, crédit de l'auteur requis | https://vrm.dev/licenses/1.0/ |
 | llama.cpp | ggml-org | MIT | https://github.com/ggml-org/llama.cpp |
 | Qwen 2.5 3B Instruct (IA locale, composant facultatif) | Alibaba Cloud (Qwen) | **Qwen Research License** : usage non commercial | https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF |
 | Whisper small (faster-whisper) | OpenAI, conversion Systran | MIT | https://huggingface.co/Systran/faster-whisper-small |
