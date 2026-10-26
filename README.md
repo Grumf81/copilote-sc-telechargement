@@ -62,9 +62,16 @@ L'installateur contient aussi des logiciels et des modèles d'autres auteurs, ch
 
 ### Star Citizen, Cloud Imperium et Roberts Space Industries
 
-Ceci est un **projet de fan non officiel**, indépendant de Cloud Imperium. Il n'est ni approuvé ni parrainé par
-Cloud Imperium Games, et n'est affilié ni à Cloud Imperium ni à Roberts Space Industries.
+<img src="made-by-the-community.png" alt="Star Citizen Made By The Community" width="96" align="right">
 
-Star Citizen®, Squadron 42®, Roberts Space Industries® et Cloud Imperium® sont des marques déposées de
-Cloud Imperium Rights LLC. Tout le contenu et le matériel du jeu (noms, vaisseaux, lieux, textes, sons, images) sont
-la propriété (copyright) de Cloud Imperium Rights LLC et de Cloud Imperium Rights Ltd. Tous droits réservés.
+Ceci est un **projet de fan non officiel**. Mention demandée par CIG :
+
+> This project is not endorsed by or affiliated with the Cloud Imperium or Roberts Space Industries group of
+> companies. All game content and materials are copyright Cloud Imperium Rights LLC and Cloud Imperium Rights Ltd.
+> Star Citizen®, Squadron 42®, Roberts Space Industries®, and Cloud Imperium® are registered trademarks of
+> Cloud Imperium Rights LLC. All rights reserved.
+
+En français : ce projet n'est ni approuvé par le groupe de sociétés Cloud Imperium ou Roberts Space Industries, ni
+affilié à lui. Tout le contenu et le matériel du jeu sont protégés par le copyright de Cloud Imperium Rights LLC et de
+Cloud Imperium Rights Ltd. Star Citizen®, Squadron 42®, Roberts Space Industries® et Cloud Imperium® sont des marques
+déposées de Cloud Imperium Rights LLC. Tous droits réservés.
