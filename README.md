@@ -1,5 +1,7 @@
 # Copilote vocal Star Citizen — téléchargement
 
+Français · [English](README.en.md)
+
 Un copilote qui vous écoute, appuie sur les touches dans Star Citizen et vous répond à voix haute.
 Tout tourne sur votre PC : reconnaissance vocale, voix et IA locale fonctionnent sans Internet.
 
@@ -39,8 +41,11 @@ pour voir l'overlay.
 ## Mettre à jour, désinstaller
 
 - **Mise à jour** : depuis le copilote, page **Mises à jour** › *Programme du copilote* › **Mettre à jour et
-  redémarrer** (quelques secondes, rien à retélécharger). Le copilote vérifie chaque jour et n'installe rien sans
-  votre accord. Vos réglages, commandes, voix et avatars sont conservés.
+  redémarrer** (quelques secondes, rien à retélécharger). Le copilote vérifie chaque jour et, si « Télécharger
+  automatiquement » et « Appliquer automatiquement » sont cochés (c'est le cas par défaut), installe la nouvelle
+  version tout seul, jamais pendant une partie. Cette installation automatique existe à partir de la version
+  2026.10.26.0059 : avant, cliquez une fois sur le bouton. L'historique des versions est dans la même page. Vos
+  réglages, commandes, voix et avatars sont conservés.
 - Les copilotes installés avant la version du 22 octobre 2026 n'ont pas encore cette mise à jour intégrée :
   réinstallez une fois avec l'installateur le plus récent (même dossier, rien n'est perdu).
 - **Désinstallation** : *Paramètres Windows › Applications › Copilote Star Citizen*. Elle propose de garder ou de
