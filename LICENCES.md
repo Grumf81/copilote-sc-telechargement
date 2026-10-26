@@ -1,4 +1,13 @@
-# Composants tiers inclus dans l'installateur
+# Licences et droits
+
+Copilote vocal Star Citizen — créé par [Grumf81](https://github.com/Grumf81). Copyright © 2026 Plagnito.
+
+**Projet de fan non officiel.** Il n'est ni approuvé ni parrainé par Cloud Imperium Games, et n'est affilié ni à
+Cloud Imperium ni à Roberts Space Industries. Star Citizen®, Squadron 42®, Roberts Space Industries® et
+Cloud Imperium® sont des marques déposées de Cloud Imperium Rights LLC. Tout le contenu et le matériel du jeu
+sont la propriété (copyright) de Cloud Imperium Rights LLC et de Cloud Imperium Rights Ltd. Tous droits réservés.
+
+## Composants tiers inclus dans l'installateur
 
 Chaque composant reste sous la licence de son auteur. Les textes complets sont sur les pages indiquées.
 

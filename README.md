@@ -55,10 +55,16 @@ téléphone : les ordres passent toujours par la voix. Windows demande une fois 
 
 ## Licences
 
-Copilote vocal Star Citizen — Copyright © 2026 Plagnito — https://plagnito.com/
+Copilote vocal Star Citizen — créé par [Grumf81](https://github.com/Grumf81). Copyright © 2026 Plagnito — https://plagnito.com/
 
 L'installateur contient aussi des logiciels et des modèles d'autres auteurs, chacun sous sa propre licence : voir
 [LICENCES.md](LICENCES.md).
 
-Star Citizen est une marque de Cloud Imperium Rights LLC. Ce projet n'est ni affilié à Cloud Imperium Games ni
-approuvé par elle.
+### Star Citizen, Cloud Imperium et Roberts Space Industries
+
+Ceci est un **projet de fan non officiel**, indépendant de Cloud Imperium. Il n'est ni approuvé ni parrainé par
+Cloud Imperium Games, et n'est affilié ni à Cloud Imperium ni à Roberts Space Industries.
+
+Star Citizen®, Squadron 42®, Roberts Space Industries® et Cloud Imperium® sont des marques déposées de
+Cloud Imperium Rights LLC. Tout le contenu et le matériel du jeu (noms, vaisseaux, lieux, textes, sons, images) sont
+la propriété (copyright) de Cloud Imperium Rights LLC et de Cloud Imperium Rights Ltd. Tous droits réservés.
